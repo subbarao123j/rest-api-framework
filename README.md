@@ -1,4 +1,8 @@
 # rest-api-framework
 
 
-points
+Auth
+
+https://developer.spotify.com/documentation/web-api/
+
+--
